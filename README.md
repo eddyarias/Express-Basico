@@ -7,3 +7,9 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+
+
+Comando para instalar socket
+```
+npm i socket.io --save
+```
